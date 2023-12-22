@@ -22,6 +22,7 @@ This backend component is designed for a straightforward customer support platfo
    - Utilize a database diagram tool to illustrate table relationships, indexes, and foreign keys.
 
 ## Usage
+    Find the getedodb.sql file in the root directory of the project and upload to MYSQL PHPAdmin.
 
 1. **Installation**
    ```bash
